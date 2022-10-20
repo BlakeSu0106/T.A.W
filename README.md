@@ -1,1 +1,1 @@
-telligent.admin.webapi
+telligent.Admin.WebApi

@@ -1,0 +1,14 @@
+.vs/
+
+src/applications/Telligent.Admin.WebApi/obj/
+src/applications/Telligent.Admin.WebApi/bin/
+
+src/modules/Telligent.Admin.Application/obj/
+src/modules/Telligent.Admin.Application/bin/
+
+src/modules/Telligent.Admin.Database/obj/
+src/modules/Telligent.Admin.Database/bin/
+
+src/modules/Telligent.Admin.Domain/obj/
+src/modules/Telligent.Admin.Domain/bin/
+src/applications/Telligent.Admin.WebApi/logs/
